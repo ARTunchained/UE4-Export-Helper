@@ -7,6 +7,6 @@ It happened in 2019 that I became severely sick and had to undergo multiple surg
 Another change in my freelance business happened during that time period and I specialised more and more on IT Security were I see my future career right now. 
 
 I'm sorry to say that I can no longer contribute to my own addons, I really hope for someone to pick them up and make them great again. ;)
-I would love to see one or more of them bundled with Blender in the future.x
+I would love to see one or more of them bundled with Blender in the future.
 
 MG
